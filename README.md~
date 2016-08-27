@@ -1,13 +1,5 @@
-[
-  {
-    "vehicle": {
-		"suv" : {
-			"light" : {
-				"red" : "car1",
-				"blue" : "car2",
-				"cyan" : "car3",
-				   }
-			}		
-		}
-  }
-]
+<<<<<<< HEAD
+hello mukesh
+=======
+Hello
+>>>>>>> aa90db51e6b04cdff079cb4adedb9d5dca8f099d
